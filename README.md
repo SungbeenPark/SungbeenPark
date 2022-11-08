@@ -1,5 +1,5 @@
 
-# 안녕하세요. 박성빈입니다.
+# 안녕하세요. 박성빈입니다. [Contact](been778@gmail.com)
 
 ### 법무법인대륜 2022~재직중
 > #열심히일하는 중.
@@ -16,7 +16,7 @@
 ### 모바일웍스(서울) 2010~2012
 > #에뛰드모바일웹 #웹개발 #android #LG트윈스응원어플
 
-[Contact](been778@gmail.com)
+
 
 ### 보유 기술
 - BackEnd - java,  Spring, eGovFrame, PHP, Node.js, GO
