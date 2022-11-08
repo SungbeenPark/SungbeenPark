@@ -21,7 +21,7 @@
 ### 보유 기술
 - BackEnd - java,  Spring, eGovFrame, PHP, Node.js, GO
 - FrontEnd - React js, NextJs, NW.js, Android(java)
-- DB :  Oracle, MySql, Ms-sql, Maria DB, Tibero, DynamoDB
+- DB :  Oracle, MySql, Ms-sql, Maria DB, Tibero, DynamoDB, postgreSQL
 - WEB/WAS : Tomcat, Apach, Nginx, Pm2,  WebSphere, JEUS, Weblogic, GlassFish
 - Os : Linux, Window, Mac
 - BlockChain - BSC20(토큰발행), solidity ,Kasse(HN 암호화폐지갑), Rizon(송수신), Solana(토큰 발행, 송수신), Tron(토큰 발행, 송수신)
