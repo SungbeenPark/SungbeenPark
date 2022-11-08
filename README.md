@@ -20,7 +20,7 @@
 
 ### 보유 기술
 - BackEnd - java,  Spring, eGovFrame, PHP, Node.js, GO
-- FrontEnd - React js, NextJs, NW.js, Android(java)
+- FrontEnd - React js, NextJs,Prisma, NW.js, Android(java)
 - DB :  Oracle, MySql, Ms-sql, Maria DB, Tibero, DynamoDB, postgreSQL
 - WEB/WAS : Tomcat, Apach, Nginx, Pm2,  WebSphere, JEUS, Weblogic, GlassFish
 - Os : Linux, Window, Mac
