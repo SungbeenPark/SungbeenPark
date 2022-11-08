@@ -1,5 +1,5 @@
 
-# 안녕하세요. 박성빈입니다. [Contact](been778@gmail.com)
+# 안녕하세요. 박성빈입니다. [been778@gmail.com](mailto:been778@gmail.com)
 
 ### 법무법인대륜 2022~재직중
 > #열심히일하는 중.
