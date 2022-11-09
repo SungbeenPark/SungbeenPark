@@ -31,7 +31,7 @@
 - DB :  Oracle, MySql, Ms-sql, Maria DB, Tibero, DynamoDB, postgreSQL
 - WEB/WAS : Tomcat, Apach, Nginx, Pm2,  WebSphere, JEUS, Weblogic, GlassFish
 - Os : Linux, Window, Mac
-- BlockChain - BSC20(토큰발행), solidity ,Kasse(HN 암호화폐지갑), Rizon(송수신), Solana(토큰 발행, 송수신), Tron(토큰 발행, 송수신)
+- BlockChain - BSC20(토큰발행), solidity ,Kasse(HN 암호화폐지갑), Rizon Coin, [Solana](https://solscan.io/token/2BsZeLpEusAd7i6qkmCmiHUpocMTRghoBHzMb4suMnoi)(토큰 발행, 송수신), Tron(토큰 발행, 송수신)
 - ETC - AWS(ec2,Route53,CertificateManager,s3,cloudfront), GitHub, Yona, Jenkins, TeamCity,bareos(백업솔루션 당시 무료),Inno Script
 
 
