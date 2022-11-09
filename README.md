@@ -4,6 +4,10 @@
 ### 법무법인대륜 2022~재직중
 > #열심히일하는 중.
 
+<details>
+<summary>이전 이력 보기</summary>
+<div markdown="1">
+  
 ### HN 2019~2022
 > #현대그룹 #리드 개발자  #비투어 #Kasse #BlockChain #DevOps #2021-우수사원  
 
@@ -15,6 +19,9 @@
 
 ### 모바일웍스(서울) 2010~2012
 > #에뛰드모바일웹 #웹개발 #android #LG트윈스응원어플
+</div>
+</details>
+
 
 
 
