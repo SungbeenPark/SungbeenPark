@@ -7,7 +7,11 @@
 <details>
 <summary>이전 이력 보기</summary>
 <div markdown="1">
-  
+
+### 법무법인 대륜 2022~현재
+> #개발팀장 #SEO #DevOps #웹크롤링 #Vercel 
+
+
 ### HN 2019~2022
 > #현대그룹 #리드 개발자  #비투어 #Kasse #BlockChain #DevOps #2021-우수사원  
 
