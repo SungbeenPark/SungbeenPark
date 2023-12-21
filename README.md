@@ -1,15 +1,15 @@
 
 # 안녕하세요. 박성빈입니다. [been778@gmail.com](mailto:been778@gmail.com)
 
-### 법무법인대륜 2022~재직중
+### 서율컨설팅 2022~재직중
 > #열심히일하는 중.
 
 <details>
 <summary>이전 이력 보기</summary>
 <div markdown="1">
 
-### 법무법인 대륜 2022~현재
-> #개발팀장 #SEO #DevOps #웹크롤링 #Vercel 
+### 서율컨설팅 2022~현재
+> #개발팀장 #SEO #DevOps #웹크롤링 #Vercel #AWS #DB마이그레이션
 
 
 ### HN 2019~2022
