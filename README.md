@@ -9,7 +9,7 @@
 <div markdown="1">
 
 ### 대륜 2022~현재
-> #개발팀장 #AI #SEO #DevOps #웹크롤링 #Vercel #AWS #DB마이그레이션
+> #개발팀장 #AI #SEO #DevOps #웹크롤링 #Vercel #AWS 
 
 
 ### HN 2019~2022
